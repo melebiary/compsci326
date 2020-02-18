@@ -1,1 +1,1 @@
-# compsci326
+# shibboleth
